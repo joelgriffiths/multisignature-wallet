@@ -8,6 +8,7 @@
   },
   "dependencies": {
     "@openzeppelin/test-helpers": "^0.5.11",
+    "create-react-app": "^4.0.3",
     "truffle": "^5.3.8"
   },
   "devDependencies": {},

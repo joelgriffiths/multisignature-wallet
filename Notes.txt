@@ -10,3 +10,8 @@ npm init -y
 
 # installs and adds to package.json
 npm install @openzeppelin/test-helpers
+
+
+# Working on the react front-end
+npm install -g create-react-app
+.\node_modules\.bin\create-react-app client
