@@ -1,0 +1,12 @@
+
+node -v
+npm install -g truffle
+
+# Creates package.json file
+.\node_modules\.bin\truffle init
+
+# Creates some other file
+npm init -y
+
+# installs and adds to package.json
+npm install @openzeppelin/test-helpers
